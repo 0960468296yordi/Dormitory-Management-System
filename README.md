@@ -9,27 +9,25 @@ This is a desktop-based management system developed using **Java Swing** and **M
 * **Database Integration:** Reliable data storage using MySQL.
 
 ## 📸 System Screenshots
+### 1. Login Page
+![Login Page](login.png)
 
-### 1. Proctor Dashboard
-![Proctor Dashboard](proctorDashboards.png)
-
-### 2. Student Dashboard
-![Student Dashboard](studentDashboard.png)
+### 2. Main Dashboard
+![Main Dashboard](admindashboard.png)
 
 ### 3. Room Management
 ![Room Management](Roommanagements.png)
 
-### 4. Student List
-![Student List](studentlists.png)
-
+### 4. Proctor Dashboard
+![Proctor Dashboard](proctorDashboards.png)
 ### 5. Student Details
 ![Student Details](studentDetail.png)
 
-### 6. Main Dashboard
-![Main Dashboard](admindashboard.png)
+### 6. Student Dashboard
+![Student Dashboard](studentDashboard.png)
 
-### 7. Login Page
-![Login Page](login.png)
+### 7. Student List
+![Student List](studentlists.png)
 
 ## 🛠️ Built With
 * **Language:** Java
